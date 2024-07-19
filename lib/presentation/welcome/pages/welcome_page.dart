@@ -25,22 +25,13 @@ class _WelcomePageState extends State<WelcomePage> {
         title: isLocked ? FadeInDown(child: titleAppBar(context)) : null,
         actions: [
           if (!isLocked) ...{
-            AppBarAction(
-              isLocked: isLocked,
-              path: 'assets/images/setting.png',
-            ),
+            const AppBarAction(path: 'assets/images/setting.png'),
           } else ...{
-            AppBarAction(
-              isLocked: isLocked,
-              path: 'assets/images/person.png',
-            ),
+            const AppBarAction(path: 'assets/images/person.png'),
           }
         ],
         leading: isLocked
-            ? AppBarAction(
-                isLocked: isLocked,
-                path: 'assets/images/menu.png',
-              )
+            ? const AppBarAction(path: 'assets/images/menu.png')
             : null,
       ),
       body: Container(

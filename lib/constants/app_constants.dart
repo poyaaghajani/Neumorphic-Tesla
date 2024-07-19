@@ -17,3 +17,12 @@ class TextColors {
   static const Color textBodyLargeColor = Colors.white;
   static const Color textLargeLabelColor = Colors.white;
 }
+
+class AppConstants {
+  static Map<String, dynamic> carModes = {
+    'Auto': 'assets/images/A.png',
+    'Dry': 'assets/images/dry.png',
+    'Cool': 'assets/images/cool.png',
+    'Program': 'assets/images/program.png',
+  };
+}

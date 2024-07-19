@@ -6,11 +6,9 @@ import 'package:neumorphic_tesla/widgets/neumorphic_button.dart';
 class AppBarAction extends StatelessWidget {
   const AppBarAction({
     super.key,
-    required this.isLocked,
     required this.path,
   });
 
-  final bool isLocked;
   final String path;
 
   @override
