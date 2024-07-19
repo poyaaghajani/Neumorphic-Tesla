@@ -23,7 +23,7 @@ dependencies:
   syncfusion_flutter_gauges: ^26.1.42
   page_transition: ^2.1.0
   animate_do: ^3.3.4
-  google_fonts: ^6.1.0
+  google_fonts: 6.1.0
 
 dev_dependencies:
   flutter_test:
