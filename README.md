@@ -1,16 +1,30 @@
-# neumorphic_tesla
+<h1 align="center" id="title">Neumorphic Tesla</h1>
 
-A new Flutter project.
+<p id="description">A neumorphic tesla app</p>
 
-## Getting Started
+<h2>💻 Built with</h2>
 
-This project is a starting point for a Flutter application.
+Technologies used in the project:
 
-A few resources to get you started if this is your first Flutter project:
+*   flutter_neumorphic_plus
+*   syncfusion_flutter_gauges
+*   animate_do
+*   page_transition
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3>🦖 ScreenShots</h3>
+
+
+
+![Screenshot_20240720-111043](https://github.com/user-attachments/assets/c45a4314-47c1-4739-b342-c1dad42316c0)
+
+
+
+![Screenshot_20240720-111050](https://github.com/user-attachments/assets/0d8e0733-110c-42a0-b50f-ffe85ae219d1)
+
+
+
+![Screenshot_20240720-111057](https://github.com/user-attachments/assets/575e7c84-3959-4dc1-b594-61b4d52242d8)
+
+
+
